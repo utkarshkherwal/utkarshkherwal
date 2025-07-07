@@ -1,3 +1,5 @@
+<div style="border: 1px solid #444; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+
 <h1 align="center">Hey, I'm Utkarsh Kherwal! 👋</h1>
 
 <p align="center">
@@ -6,61 +8,85 @@
 
 ---
 
-### 📌 About Me
+### 🧾 Quick Profile
 
 - 🎓 **B.A. (Hons.) Economics '25** – Shyam Lal College, University of Delhi  
-- 📊 **Research Focus:** Healthcare Economics • Public Policy • Trade & Development  
-- 💻 **Tools & Skills:** Python • STATA • Advanced Excel • Data Visualization • Machine Learning • Risk Assessment 
-- 🌱 **Currently Exploring:** Credit Risk Modeling • Policy Impact Evaluation • Trade & Health Economics • Open-source Economic Data
-- 📫 **Contact:** utkarshkherwal2003@gmail.com | 📍 Delhi-NCR, India
-- 🌐 **GitHub Projects:** [Credit Card Fraud Detection](https://github.com/utkarshkherwal/Credit-Card-Fraud-Detection)
+- 📊 **Focused Interests:** Financial Risk Modeling • Forecasting • Quantitative Research  
+- 💻 **Tools & Skills:** Python • STATA • SQL • Excel • Data Visualization • Risk Assessment  
+- 🌱 **Currently Exploring:** Predictive Analytics • Credit Risk • Time Series Forecasting  
+- 📫 **Contact:** utkarshkherwal2003@gmail.com | 📍 Delhi-NCR, India  
+- 🔗 **LinkedIn:** [Utkarsh Kherwal](https://linkedin.com/in/utkarsh-kherwal-827561213)
 
 ---
 
-### 💼 Professional Experience
+### 🚀 Featured Projects
 
-#### Institute of Economic Growth – *Research Analyst* (Feb '24 – Nov '24)
-- Led data analysis for **NSSO 79th round healthcare expenditure** and **AYUSH datasets**
-- Co-authored research on **catastrophic health expenditure** with Dr. William Joe
-- Assessed the **National Health Mission (MoHFW)** and analyzed Olympic performance data
-
-#### Crawford School of Public Policy – *Research Assistant* (Apr '24 – May '24)
-- Assisted with **trade modeling in Nepal**, focusing on Supply & Use Tables (SUTs)
-
-#### Pehchan Street School – *Teaching Intern* (Jun '24 – Aug '24)
-- Mentored and educated underprivileged students through engaging and impactful teaching
+<table>
+  <thead>
+    <tr>
+      <th align="left">📁 Repo</th>
+      <th align="left">📝 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/utkarshkherwal/Credit-Card-Fraud-Detection"><b>Credit Card Fraud Detection</b></a></td>
+      <td>Logistic Regression + Random Forest model with risk assessment & visualizations</td>
+    </tr>
+    <tr>
+      <td><b>NFHS-5 Research</b></td>
+      <td>Paper analyzing women’s labor force participation & violence using national survey data</td>
+    </tr>
+    <tr>
+      <td><b>AYUSH Expenditure Study</b></td>
+      <td>Co-authored research on catastrophic health expenditure using NSSO 79th round data</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### Academic & Tech Projects
+### 💼 Experience Snapshot
 
- **Credit Card Fraud Detection**  
-  Built using Logistic Regression and Random Forest. Published on GitHub with risk assessment and visualizations.  
-  🔗 [View Project](https://github.com/utkarshkherwal/Credit-Card-Fraud-Detection)
+#### 🧪 Institute of Economic Growth – *Research Analyst* (Feb ’24 – Nov ’24)
+- Analyzed NSSO healthcare and AYUSH datasets  
+- Evaluated out-of-pocket and catastrophic expenditures  
+- Contributed to National Health Mission impact analysis and Olympic research  
 
-- **Research Paper** – NFHS-5  
-  Analyzed links between **women’s labor force participation** and **violence against women** using national datasets
+#### 🌍 Crawford School of Public Policy – *Research Assistant* (Apr ’24 – May ’24)
+- Worked on trade modeling for Nepal using Supply and Use Tables (SUTs)
 
-- **Freelance Consulting**  
-  Worked on **organic farming business development** — market research, government schemes, branding strategy
+#### 👨‍🏫 Pehchan Street School – *Teaching Intern* (Jun ’24 – Aug ’24)
+- Mentored and educated underprivileged students through interactive methods
+
+---
+
+### 🧠 Academic & Consulting Work
+
+- 🧮 Built a **Credit Card Fraud Detection** model and published with visualizations on GitHub  
+- ✍️ Authored a research paper using **NFHS-5** on women’s participation & violence correlation  
+- 🌾 Worked as a **freelance consultant** for Organic Farming Market Strategy in North India
 
 ---
 
 ### 🏆 Leadership & Achievements
 
-- **1st Prize** – RCEP Policy Debate, Shyam Lal College (2024)  
-- **Paper Presentation** – *Synergy ‘24*, National Conference, DU  
-- **Secretary** – Economics Association, Shyam Lal College  
-- **Fest Organizer** – Core lead, *Economica’24* (University-wide economics fest)
+- 🥇 1st Place – Inter-college debate on RCEP and India’s strategic risk (2024)  
+- 📑 Paper Presentation – *Synergy '24*, Shyam Lal College Economics Dept.  
+- 🗓️ Secretary – Core Organizer of *Economica '24*, Delhi University Economics Fest  
+- 🧠 Certifications:
+  - TATA – Data Visualization for Business  
+  - KPMG – Data Analytics Virtual Internship  
+  - Deloitte – Technology Consulting Virtual Experience  
+  - British Airways – Data Science Program  
 
 ---
 
-### 📚 Certifications & Virtual Experiences
+### 💬 Interests & Collaboration
 
-- 📊 **TATA** – *Data Visualization: Empowering Business with Insights*  
-- 🧠 **KPMG** – Data Analytics Virtual Internship  
-- ✈️ **British Airways** – Data Science Virtual Experience  
-- 💻 **Deloitte** – Technology Consulting Virtual Internship  
+- 💡 Interested in: Financial Risk Modeling • Forecasting • Quantitative Research  
+- 🤝 Open to collaborations on: Data Analysis, Credit Risk Projects, and Model Building  
+- 📘 Eager to learn more about: Predictive Analytics • Time Series Forecasting • Portfolio & Credit Risk
 
 ---
 
@@ -73,19 +99,15 @@
 
 ---
 
-### 💬 Let’s Connect or Collaborate
+<div align="center">
 
-- 💡 Interested in: Financial Risk Modeling • Forecasting • Quantitative Research  
-- 🤝 Open to collaborations on: Data Analysis, Credit Risk Projects, and Model Building  
-- 📘 Eager to learn more about: Predictive Analytics • Time Series Forecasting • Portfolio & Credit Risk Assessment
-- 🛠 Open to: Policy internships, Analytics roles, or Research Assistantships  
-- 📨 Email: utkarshkherwal2003@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/utkarsh-kherwal-827561213)
+> “Critics are our friends, they show us our faults.”  
+> — *Benjamin Franklin*
 
----
-
-> “Critics are our friends, they show us our faults.” — *Benjamin Franklin*
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utkarshkherwal&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
+
+</div>
