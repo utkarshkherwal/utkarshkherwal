@@ -1,4 +1,5 @@
-<div style="border: 1px solid #444; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 12px rgba(0,0,0,0.15);">
+<table width="100%" border="1" cellspacing="0" cellpadding="10">
+<tr><td>
 
 <h1 align="center">Hey, I'm Utkarsh Kherwal! 👋</h1>
 
@@ -110,4 +111,5 @@
   <img src="https://komarev.com/ghpvc/?username=utkarshkherwal&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
 
-</div>
+</td></tr>
+</table>
