@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm Utkarsh Kherwal! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Economics+Researcher+%7C+Risk+Enthusiast;Aspiring+Risk+Analyst+%7C+Data+Driven+Thinker;Learning+Forecasting+%26+Predictive+Modeling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Economics+Researcher+%7C+Risk+Enthusiast;Aspiring+Risk+Analyst+%7C+Data+Driven+Thinker;Learning+Forecasting+%26+Predictive+Modeling;Learning%2C+Adapting%2C+Evolving+with+Purpose" />
 </p>
 
 ---
