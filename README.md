@@ -76,8 +76,8 @@
 - Paper Presentation – *Synergy '24*, Shyam Lal College Economics Dept.  
 - Secretary – Core Organizer of *Economica '24*, Delhi University Economics Fest  
 - Certifications:
-  - GOOGLE – Regression Analysis: Simplify Complex Data Relationships  
-  - GOOGLE – Get Started with Python  
+  - Google – Regression Analysis: Simplify Complex Data Relationships  
+  - Google – Get Started with Python  
   - Stanford University – Introduction to Statistics  
   - Stanford University – Game Theory 
 
