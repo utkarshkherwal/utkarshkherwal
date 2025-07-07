@@ -49,45 +49,45 @@
 
 ### 💼 Experience Snapshot
 
-#### 🧪 Institute of Economic Growth – *Research Analyst* (Feb ’24 – Nov ’24)
+#### Institute of Economic Growth – *Research Analyst* (Feb ’24 – Nov ’24)
 - Analyzed NSSO healthcare and AYUSH datasets  
 - Evaluated out-of-pocket and catastrophic expenditures  
 - Contributed to National Health Mission impact analysis and Olympic research  
 
-#### 🌍 Crawford School of Public Policy – *Research Assistant* (Apr ’24 – May ’24)
+#### Crawford School of Public Policy – *Research Assistant* (Apr ’24 – May ’24)
 - Worked on trade modeling for Nepal using Supply and Use Tables (SUTs)
 
-#### 👨‍🏫 Pehchan Street School – *Teaching Intern* (Jun ’24 – Aug ’24)
+#### Pehchan Street School – *Teaching Intern* (Jun ’24 – Aug ’24)
 - Mentored and educated underprivileged students through interactive methods
 
 ---
 
 ### 🧠 Academic & Consulting Work
 
-- 🧮 Built a **Credit Card Fraud Detection** model and published with visualizations on GitHub  
-- ✍️ Authored a research paper using **NFHS-5** on women’s participation & violence correlation  
-- 🌾 Worked as a **freelance consultant** for Organic Farming Market Strategy in North India
+- Built a **Credit Card Fraud Detection** model and published with visualizations on GitHub  
+- Authored a research paper using **NFHS-5** on women’s participation & violence correlation  
+- Worked as a **freelance consultant** for Organic Farming Market Strategy in North India
 
 ---
 
 ### 🏆 Leadership & Achievements
 
-- 🥇 1st Place – Inter-college debate on RCEP and India’s strategic risk (2024)  
-- 📑 Paper Presentation – *Synergy '24*, Shyam Lal College Economics Dept.  
-- 🗓️ Secretary – Core Organizer of *Economica '24*, Delhi University Economics Fest  
-- 🧠 Certifications:
-  - TATA – Data Visualization for Business  
-  - KPMG – Data Analytics Virtual Internship  
-  - Deloitte – Technology Consulting Virtual Experience  
-  - British Airways – Data Science Program  
+- 1st Place – Inter-college debate on RCEP and India’s strategic risk (2024)  
+- Paper Presentation – *Synergy '24*, Shyam Lal College Economics Dept.  
+- Secretary – Core Organizer of *Economica '24*, Delhi University Economics Fest  
+- Certifications:
+  - GOOGLE – Regression Analysis: Simplify Complex Data Relationships  
+  - GOOGLE – Get Started with Python  
+  - Stanford University – Introduction to Statistics  
+  - Stanford University – Game Theory 
 
 ---
 
 ### 💬 Interests & Collaboration
 
-- 💡 Interested in: Financial Risk Modeling • Forecasting • Quantitative Research  
-- 🤝 Open to collaborations on: Data Analysis, Credit Risk Projects, and Model Building  
-- 📘 Eager to learn more about: Predictive Analytics • Time Series Forecasting • Portfolio & Credit Risk
+- Interested in: Financial Risk Modeling • Forecasting • Quantitative Research  
+- Open to collaborations on: Data Analysis, Credit Risk Projects, and Model Building  
+- Eager to learn more about: Predictive Analytics • Time Series Forecasting • Portfolio & Credit Risk
 
 ---
 
