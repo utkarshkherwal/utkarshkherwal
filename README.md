@@ -36,6 +36,14 @@
       <td>Logistic Regression + Random Forest model with risk assessment & visualizations</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/utkarshkherwal/Predicting-Poverty-Risk-in-India-Using-NFHS-5-Data"><b>Predicting Poverty Risk in India Using NFHS-5 Data</b></a></td>
+      <td>Machine learning models to predict poverty risk leveraging large-scale NFHS-5 survey data</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/utkarshkherwal/Stock-Sector-Trend-Model"><b>Stock Sector Trend Model</b></a></td>
+      <td>Sector-wise trend analysis and predictive modeling for stock market performance</td>
+    </tr>
+    <tr>
       <td><b>NFHS-5 Research</b></td>
       <td>Paper analyzing women’s labor force participation & violence using national survey data</td>
     </tr>
