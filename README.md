@@ -12,7 +12,7 @@
 
 ### 🧾 Quick Profile
 
-- 🎓 **B.A. (Hons.) Economics '26** – Shyam Lal College, University of Delhi  
+- 🎓 **B.A. (Hons.) Economics '26** – University of Delhi  
 - 📊 **Focused Interests:** Financial Risk Modeling • Forecasting • Quantitative Research  
 - 💻 **Tools & Skills:** Python • STATA • SQL • Excel • Data Visualization • Risk Assessment  
 - 🌱 **Currently Exploring:** Predictive Analytics • Credit Risk • Time Series Forecasting  
